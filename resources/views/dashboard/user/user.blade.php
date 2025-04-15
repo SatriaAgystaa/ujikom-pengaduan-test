@@ -1,7 +1,7 @@
 <x-app-layout>
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-900 leading-tight">
-            Dashboard User
+            Dashboard User Test
         </h2>
     </x-slot>
     <div class="py-6">
